@@ -1,9 +1,5 @@
 # Performance curve modeling for correlation-based neural decoding of auditory attention
 
-## License
-
-See the [LICENSE](LICENSE.md) file for license rights and limitations. By downloading and/or installing this software and associated files on your computing system you agree to use the software under the terms and condition as specified in the License agreement.
-
 If this code has been useful for you, please cite [1].
 
 ## About
