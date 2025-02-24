@@ -9,18 +9,18 @@ This repository includes the MATLAB-code for the performance curve modeling tech
 Developed and tested in MATLAB R2021b.
 
 ## Contact
-Simon Geirnaert  
+Simon Geirnaert\
 KU Leuven, Department of Electrical Engineering (ESAT), STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics  
 KU Leuven, Department of Neurosciences, Research Group ExpORL  
 Leuven.AI - KU Leuven institute for AI  
 <simon.geirnaert@kuleuven.be>
 
-Tom Francart
+Tom Francart\
 KU Leuven, Department of Neurosciences, Research Group ExpORL  
 Leuven.AI - KU Leuven institute for AI  
 <tom.francart@kuleuven.be>
 
-Alexander Bertrand
+Alexander Bertrand\
 KU Leuven, Department of Electrical Engineering (ESAT), STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics  
 Leuven.AI - KU Leuven institute for AI  
 <alexander.bertrand@kuleuven.be>
